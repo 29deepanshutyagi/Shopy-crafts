@@ -1,2 +1,2 @@
 # Shopy-crafts
-a handicraft shopping website\nsingle destination for handicraft
+a handicraft shopping website and a single destination for all handicraft
